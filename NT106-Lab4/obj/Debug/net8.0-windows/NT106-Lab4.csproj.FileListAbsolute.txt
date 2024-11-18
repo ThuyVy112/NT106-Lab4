@@ -1,0 +1,17 @@
+C:\NT106\Lab4\NT106-Lab4\NT106-Lab4\bin\Debug\net8.0-windows\NT106-Lab4.exe
+C:\NT106\Lab4\NT106-Lab4\NT106-Lab4\bin\Debug\net8.0-windows\NT106-Lab4.deps.json
+C:\NT106\Lab4\NT106-Lab4\NT106-Lab4\bin\Debug\net8.0-windows\NT106-Lab4.runtimeconfig.json
+C:\NT106\Lab4\NT106-Lab4\NT106-Lab4\bin\Debug\net8.0-windows\NT106-Lab4.dll
+C:\NT106\Lab4\NT106-Lab4\NT106-Lab4\bin\Debug\net8.0-windows\NT106-Lab4.pdb
+C:\NT106\Lab4\NT106-Lab4\NT106-Lab4\obj\Debug\net8.0-windows\NT106_Lab4.Bai1.resources
+C:\NT106\Lab4\NT106-Lab4\NT106-Lab4\obj\Debug\net8.0-windows\NT106_Lab4.Form1.resources
+C:\NT106\Lab4\NT106-Lab4\NT106-Lab4\obj\Debug\net8.0-windows\NT106-Lab4.csproj.GenerateResource.cache
+C:\NT106\Lab4\NT106-Lab4\NT106-Lab4\obj\Debug\net8.0-windows\NT106-Lab4.GeneratedMSBuildEditorConfig.editorconfig
+C:\NT106\Lab4\NT106-Lab4\NT106-Lab4\obj\Debug\net8.0-windows\NT106-Lab4.AssemblyInfoInputs.cache
+C:\NT106\Lab4\NT106-Lab4\NT106-Lab4\obj\Debug\net8.0-windows\NT106-Lab4.AssemblyInfo.cs
+C:\NT106\Lab4\NT106-Lab4\NT106-Lab4\obj\Debug\net8.0-windows\NT106-Lab4.csproj.CoreCompileInputs.cache
+C:\NT106\Lab4\NT106-Lab4\NT106-Lab4\obj\Debug\net8.0-windows\NT106-Lab4.dll
+C:\NT106\Lab4\NT106-Lab4\NT106-Lab4\obj\Debug\net8.0-windows\refint\NT106-Lab4.dll
+C:\NT106\Lab4\NT106-Lab4\NT106-Lab4\obj\Debug\net8.0-windows\NT106-Lab4.pdb
+C:\NT106\Lab4\NT106-Lab4\NT106-Lab4\obj\Debug\net8.0-windows\NT106-Lab4.genruntimeconfig.cache
+C:\NT106\Lab4\NT106-Lab4\NT106-Lab4\obj\Debug\net8.0-windows\ref\NT106-Lab4.dll
