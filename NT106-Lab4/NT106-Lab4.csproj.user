@@ -4,7 +4,13 @@
     <Compile Update="Bai1.cs">
       <SubType>Form</SubType>
     </Compile>
+    <Compile Update="Bai2_Device_Emulator.cs">
+      <SubType>Form</SubType>
+    </Compile>
     <Compile Update="Form1.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Bai2.cs">
       <SubType>Form</SubType>
     </Compile>
   </ItemGroup>

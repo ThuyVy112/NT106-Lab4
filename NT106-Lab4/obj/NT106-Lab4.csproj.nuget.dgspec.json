@@ -1,20 +1,20 @@
 {
   "format": 1,
   "restore": {
-    "C:\\NT106\\Lab4\\NT106-Lab4\\NT106-Lab4\\NT106-Lab4.csproj": {}
+    "C:\\Users\\Hi\\Source\\Repos\\NT106-Lab4\\NT106-Lab4\\NT106-Lab4.csproj": {}
   },
   "projects": {
-    "C:\\NT106\\Lab4\\NT106-Lab4\\NT106-Lab4\\NT106-Lab4.csproj": {
+    "C:\\Users\\Hi\\Source\\Repos\\NT106-Lab4\\NT106-Lab4\\NT106-Lab4.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\NT106\\Lab4\\NT106-Lab4\\NT106-Lab4\\NT106-Lab4.csproj",
+        "projectUniqueName": "C:\\Users\\Hi\\Source\\Repos\\NT106-Lab4\\NT106-Lab4\\NT106-Lab4.csproj",
         "projectName": "NT106-Lab4",
-        "projectPath": "C:\\NT106\\Lab4\\NT106-Lab4\\NT106-Lab4\\NT106-Lab4.csproj",
-        "packagesPath": "C:\\Users\\trann\\.nuget\\packages\\",
-        "outputPath": "C:\\NT106\\Lab4\\NT106-Lab4\\NT106-Lab4\\obj\\",
+        "projectPath": "C:\\Users\\Hi\\Source\\Repos\\NT106-Lab4\\NT106-Lab4\\NT106-Lab4.csproj",
+        "packagesPath": "C:\\Users\\Hi\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Hi\\Source\\Repos\\NT106-Lab4\\NT106-Lab4\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\trann\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\Hi\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -44,6 +44,20 @@
       "frameworks": {
         "net8.0-windows7.0": {
           "targetAlias": "net8.0-windows",
+          "dependencies": {
+            "HtmlAgilityPackCore": {
+              "target": "Package",
+              "version": "[1.0.0, )"
+            },
+            "Microsoft.Web.WebView2": {
+              "target": "Package",
+              "version": "[1.0.2903.40, )"
+            },
+            "System.Drawing.Common": {
+              "target": "Package",
+              "version": "[9.0.0, )"
+            }
+          },
           "imports": [
             "net461",
             "net462",
@@ -63,7 +77,7 @@
               "privateAssets": "none"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.200/PortableRuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.404/PortableRuntimeIdentifierGraph.json"
         }
       }
     }

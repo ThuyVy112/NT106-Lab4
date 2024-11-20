@@ -1,8 +1,14 @@
 {
   "version": 2,
-  "dgSpecHash": "ZCdkySQ5qq9blbGLViYUGrH2b6h2yIx/XWgGd+9X2yBGY/NJe4EySb7LvWnceB4KKoHewN8hJOUqo0xjAkBZYg==",
+  "dgSpecHash": "ADtY/GAbYN0=",
   "success": true,
-  "projectFilePath": "C:\\NT106\\Lab4\\NT106-Lab4\\NT106-Lab4\\NT106-Lab4.csproj",
-  "expectedPackageFiles": [],
+  "projectFilePath": "C:\\Users\\Hi\\Source\\Repos\\NT106-Lab4\\NT106-Lab4\\NT106-Lab4.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Hi\\.nuget\\packages\\htmlagilitypackcore\\1.0.0\\htmlagilitypackcore.1.0.0.nupkg.sha512",
+    "C:\\Users\\Hi\\.nuget\\packages\\microsoft.web.webview2\\1.0.2903.40\\microsoft.web.webview2.1.0.2903.40.nupkg.sha512",
+    "C:\\Users\\Hi\\.nuget\\packages\\microsoft.win32.systemevents\\9.0.0\\microsoft.win32.systemevents.9.0.0.nupkg.sha512",
+    "C:\\Users\\Hi\\.nuget\\packages\\system.drawing.common\\9.0.0\\system.drawing.common.9.0.0.nupkg.sha512",
+    "C:\\Users\\Hi\\.nuget\\packages\\system.memory\\4.5.3\\system.memory.4.5.3.nupkg.sha512"
+  ],
   "logs": []
 }
