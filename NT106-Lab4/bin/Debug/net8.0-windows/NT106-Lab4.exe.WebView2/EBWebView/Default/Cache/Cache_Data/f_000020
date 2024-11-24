@@ -69,7 +69,7 @@ window.dataLayer = window.dataLayer || [];function gtag(){dataLayer.push(argumen
 <script type="text/javascript" src="https://student.uit.edu.vn/sites/daa/files/js/js_NyZIcR_cytJG066_ZOVMQYIiRBvRjpe0OiU3rrflcbs.js"></script>
 <script type="text/javascript">
 <!--//--><![CDATA[//><!--
-jQuery.extend(Drupal.settings, {"basePath":"\/","pathPrefix":"","setHasJsCookie":0,"ajaxPageState":{"theme":"uitpb_daa","theme_token":"Oz2l-Fl4vfMXj5YlQ02Y1UMyhf-SzBeD-kCbPhibLwM","jquery_version":"1.12","jquery_version_token":"dnuFJzJESh0IxBgGcZKFfHZeG4pH79sHcKw10LlDbis","js":{"sites\/all\/modules\/jquery_update\/replace\/jquery\/1.12\/jquery.min.js":1,"misc\/jquery-extend-3.4.0.js":1,"misc\/jquery-html-prefilter-3.5.0-backport.js":1,"misc\/jquery.once.js":1,"misc\/drupal.js":1,"sites\/all\/modules\/jquery_update\/js\/jquery_browser.js":1,"sites\/all\/modules\/jquery_update\/replace\/ui\/ui\/minified\/jquery.ui.effect.min.js":1,"sites\/all\/modules\/jquery_update\/replace\/ui\/external\/jquery.cookie.js":1,"sites\/all\/modules\/jquery_update\/replace\/jquery.form\/4\/jquery.form.min.js":1,"misc\/form-single-submit.js":1,"misc\/ajax.js":1,"sites\/all\/modules\/jquery_update\/js\/jquery_update.js":1,"sites\/all\/modules\/contrib\/ckeditor_accordion\/js\/ckeditor-accordion.js":1,"sites\/all\/modules\/contrib\/back_to_top\/js\/back_to_top.js":1,"public:\/\/languages\/vi_J_NhJ2ElEqxU6ed6uJYKG-0P16kyvozfs1lpn6mofkw.js":1,"misc\/progress.js":1,"sites\/all\/modules\/google_analytics\/googleanalytics.js":1,"https:\/\/www.googletagmanager.com\/gtag\/js?id=UA-32419117-1":1,"0":1,"sites\/all\/libraries\/select2\/dist\/js\/select2.full.min.js":1,"sites\/all\/modules\/contrib\/captcha\/captcha.js":1,"misc\/form.js":1,"misc\/collapse.js":1,"sites\/all\/themes\/open_framework\/packages\/bootstrap-2.3.1\/js\/bootstrap.min.js":1,"sites\/all\/themes\/open_framework\/js\/open_framework.js":1,"sites\/all\/themes\/open_framework\/js\/jquery.placeholder.min.js":1,"sites\/all\/themes\/open_framework\/js\/override.js":1,"sites\/all\/themes\/uitpb_daa\/js\/script.js":1},"css":{"modules\/system\/system.base.css":1,"modules\/system\/system.menus.css":1,"modules\/system\/system.messages.css":1,"modules\/system\/system.theme.css":1,"modules\/aggregator\/aggregator.css":1,"sites\/all\/modules\/contrib\/ckeditor_accordion\/css\/ckeditor-accordion.css":1,"modules\/comment\/comment.css":1,"modules\/field\/theme\/field.css":1,"sites\/all\/modules\/custom\/li_lich\/css\/lilich.css":1,"sites\/all\/modules\/custom\/lookup\/css\/lookup.css":1,"modules\/node\/node.css":1,"modules\/search\/search.css":1,"sites\/all\/modules\/uit_common\/css\/uit_common.css":1,"sites\/daa\/modules\/custom\/uit_dichvu\/css\/dichvu.css":1,"sites\/all\/modules\/custom\/uit_dkphong\/css\/main.css":1,"sites\/all\/modules\/custom\/uit_sinhvien\/css\/diemthi.css":1,"modules\/user\/user.css":1,"sites\/all\/modules\/contrib\/views\/css\/views.css":1,"sites\/all\/modules\/contrib\/back_to_top\/css\/back_to_top.css":1,"sites\/all\/modules\/contrib\/ckeditor\/css\/ckeditor.css":1,"sites\/all\/modules\/contrib\/ctools\/css\/ctools.css":1,"sites\/all\/libraries\/select2\/dist\/css\/select2.min.css":1,"sites\/all\/themes\/open_framework\/packages\/bootstrap-2.3.1\/css\/bootstrap.min.css":1,"sites\/all\/themes\/open_framework\/packages\/bootstrap-2.3.1\/css\/bootstrap-responsive.min.css":1,"sites\/all\/themes\/open_framework\/packages\/font-awesome-4.7.0\/css\/font-awesome.min.css":1,"sites\/all\/themes\/open_framework\/css\/open_framework.css":1,"sites\/all\/themes\/uitpb_daa\/css\/style.css":1,"sites\/all\/themes\/open_framework\/css\/open_framework_print.css":1}},"back_to_top":{"back_to_top_button_trigger":"100","back_to_top_button_text":"Back to top","#attached":{"library":[["system","ui"]]}},"ckeditor_accordion":{"collapseAll":1},"googleanalytics":{"account":["UA-32419117-1"],"trackOutbound":1,"trackMailto":1,"trackDownload":1,"trackDownloadExtensions":"7z|aac|arc|arj|asf|asx|avi|bin|csv|doc(x|m)?|dot(x|m)?|exe|flv|gif|gz|gzip|hqx|jar|jpe?g|js|mp(2|3|4|e?g)|mov(ie)?|msi|msp|pdf|phps|png|ppt(x|m)?|pot(x|m)?|pps(x|m)?|ppam|sld(x|m)?|thmx|qtm?|ra(m|r)?|sea|sit|tar|tgz|torrent|txt|wav|wma|wmv|wpd|xls(x|m|b)?|xlt(x|m)|xlam|xml|z|zip"},"urlIsAjaxTrusted":{"\/":true,"\/user\/login%26homepage?destination=node":true}});
+jQuery.extend(Drupal.settings, {"basePath":"\/","pathPrefix":"","setHasJsCookie":0,"ajaxPageState":{"theme":"uitpb_daa","theme_token":"j7uNc351I9H2BkM_qMpngku5NY674NPNsDN0Skvwtmw","jquery_version":"1.12","jquery_version_token":"CdV7OCVbPoxhMUpoSgIuh2rIDknmOg_V67VtzDdF-9Y","js":{"sites\/all\/modules\/jquery_update\/replace\/jquery\/1.12\/jquery.min.js":1,"misc\/jquery-extend-3.4.0.js":1,"misc\/jquery-html-prefilter-3.5.0-backport.js":1,"misc\/jquery.once.js":1,"misc\/drupal.js":1,"sites\/all\/modules\/jquery_update\/js\/jquery_browser.js":1,"sites\/all\/modules\/jquery_update\/replace\/ui\/ui\/minified\/jquery.ui.effect.min.js":1,"sites\/all\/modules\/jquery_update\/replace\/ui\/external\/jquery.cookie.js":1,"sites\/all\/modules\/jquery_update\/replace\/jquery.form\/4\/jquery.form.min.js":1,"misc\/form-single-submit.js":1,"misc\/ajax.js":1,"sites\/all\/modules\/jquery_update\/js\/jquery_update.js":1,"sites\/all\/modules\/contrib\/ckeditor_accordion\/js\/ckeditor-accordion.js":1,"sites\/all\/modules\/contrib\/back_to_top\/js\/back_to_top.js":1,"public:\/\/languages\/vi_J_NhJ2ElEqxU6ed6uJYKG-0P16kyvozfs1lpn6mofkw.js":1,"misc\/progress.js":1,"sites\/all\/modules\/google_analytics\/googleanalytics.js":1,"https:\/\/www.googletagmanager.com\/gtag\/js?id=UA-32419117-1":1,"0":1,"sites\/all\/libraries\/select2\/dist\/js\/select2.full.min.js":1,"sites\/all\/modules\/contrib\/captcha\/captcha.js":1,"misc\/form.js":1,"misc\/collapse.js":1,"sites\/all\/themes\/open_framework\/packages\/bootstrap-2.3.1\/js\/bootstrap.min.js":1,"sites\/all\/themes\/open_framework\/js\/open_framework.js":1,"sites\/all\/themes\/open_framework\/js\/jquery.placeholder.min.js":1,"sites\/all\/themes\/open_framework\/js\/override.js":1,"sites\/all\/themes\/uitpb_daa\/js\/script.js":1},"css":{"modules\/system\/system.base.css":1,"modules\/system\/system.menus.css":1,"modules\/system\/system.messages.css":1,"modules\/system\/system.theme.css":1,"modules\/aggregator\/aggregator.css":1,"sites\/all\/modules\/contrib\/ckeditor_accordion\/css\/ckeditor-accordion.css":1,"modules\/comment\/comment.css":1,"modules\/field\/theme\/field.css":1,"sites\/all\/modules\/custom\/li_lich\/css\/lilich.css":1,"sites\/all\/modules\/custom\/lookup\/css\/lookup.css":1,"modules\/node\/node.css":1,"modules\/search\/search.css":1,"sites\/all\/modules\/uit_common\/css\/uit_common.css":1,"sites\/daa\/modules\/custom\/uit_dichvu\/css\/dichvu.css":1,"sites\/all\/modules\/custom\/uit_dkphong\/css\/main.css":1,"sites\/all\/modules\/custom\/uit_sinhvien\/css\/diemthi.css":1,"modules\/user\/user.css":1,"sites\/all\/modules\/contrib\/views\/css\/views.css":1,"sites\/all\/modules\/contrib\/back_to_top\/css\/back_to_top.css":1,"sites\/all\/modules\/contrib\/ckeditor\/css\/ckeditor.css":1,"sites\/all\/modules\/contrib\/ctools\/css\/ctools.css":1,"sites\/all\/libraries\/select2\/dist\/css\/select2.min.css":1,"sites\/all\/themes\/open_framework\/packages\/bootstrap-2.3.1\/css\/bootstrap.min.css":1,"sites\/all\/themes\/open_framework\/packages\/bootstrap-2.3.1\/css\/bootstrap-responsive.min.css":1,"sites\/all\/themes\/open_framework\/packages\/font-awesome-4.7.0\/css\/font-awesome.min.css":1,"sites\/all\/themes\/open_framework\/css\/open_framework.css":1,"sites\/all\/themes\/uitpb_daa\/css\/style.css":1,"sites\/all\/themes\/open_framework\/css\/open_framework_print.css":1}},"back_to_top":{"back_to_top_button_trigger":"100","back_to_top_button_text":"Back to top","#attached":{"library":[["system","ui"]]}},"ckeditor_accordion":{"collapseAll":1},"googleanalytics":{"account":["UA-32419117-1"],"trackOutbound":1,"trackMailto":1,"trackDownload":1,"trackDownloadExtensions":"7z|aac|arc|arj|asf|asx|avi|bin|csv|doc(x|m)?|dot(x|m)?|exe|flv|gif|gz|gzip|hqx|jar|jpe?g|js|mp(2|3|4|e?g)|mov(ie)?|msi|msp|pdf|phps|png|ppt(x|m)?|pot(x|m)?|pps(x|m)?|ppam|sld(x|m)?|thmx|qtm?|ra(m|r)?|sea|sit|tar|tgz|torrent|txt|wav|wma|wmv|wpd|xls(x|m|b)?|xlt(x|m)|xlam|xml|z|zip"},"urlIsAjaxTrusted":{"\/":true,"\/user\/login%26homepage?destination=node":true}});
 //--><!]]>
 </script>
   <!--[if IE 7]>
@@ -178,7 +178,7 @@ jQuery.extend(Drupal.settings, {"basePath":"\/","pathPrefix":"","setHasJsCookie"
   <label class="element-invisible" for="edit-search-block-form--2">Tìm kiếm </label>
  <input title="Nhập điều kiện tìm kiếm." class="input-medium search-query form-text" placeholder="Search this site..." type="text" id="edit-search-block-form--2" name="search_block_form" value="" size="15" maxlength="128" />
 </div>
-<div class="form-actions form-wrapper" id="edit-actions"><input class="btn-search form-submit" alt="Tìm kiếm" type="image" id="edit-submit" name="submit" src="https://student.uit.edu.vn/sites/all/themes/open_framework/images/searchbutton.png" /></div><input type="hidden" name="form_build_id" value="form-lxNFrgKfHVrWXDeVgSGb0_yNH-a-95IJ5GQ37lwpPq4" />
+<div class="form-actions form-wrapper" id="edit-actions"><input class="btn-search form-submit" alt="Tìm kiếm" type="image" id="edit-submit" name="submit" src="https://student.uit.edu.vn/sites/all/themes/open_framework/images/searchbutton.png" /></div><input type="hidden" name="form_build_id" value="form-XOuBFNgLuq9zxperpCzDbudH_hA9XWdBWDQkdm7tZSE" />
 <input type="hidden" name="form_id" value="search_block_form" />
 </div>
 </div></form> </div>
@@ -194,10 +194,10 @@ jQuery.extend(Drupal.settings, {"basePath":"\/","pathPrefix":"","setHasJsCookie"
  <input type="password" id="edit-pass" name="pass" size="15" maxlength="128" class="form-text required" />
 <div class="description">Mật khẩu chứng thực</div>
 </div>
-<div class="item-list"></div><input type="hidden" name="form_build_id" value="form-HIRpCHgsolGoiZRKeqo7oI74nCPqXgNAs9i0TjExJZA" />
+<div class="item-list"></div><input type="hidden" name="form_build_id" value="form-AwqJfDp0zLOYedGc1nkKU9RTmb5yZHtYX5lyOEsP0Zo" />
 <input type="hidden" name="form_id" value="user_login_block" />
-<div class="captcha"><input type="hidden" name="captcha_sid" value="553839530" />
-<input type="hidden" name="captcha_token" value="1a874286bfb3821ed5f8bda9a392fd58" />
+<div class="captcha"><input type="hidden" name="captcha_sid" value="558363613" />
+<input type="hidden" name="captcha_token" value="2b0ae482767fcdfe0a25af745dbb21ee" />
 <input type="hidden" name="captcha_response" value="Google no captcha" />
 <div class="g-recaptcha" data-sitekey="6Ld5CJIUAAAAAM9oB1JUS5hrag1f0hKsoLPF-O75" data-theme="light" data-type="image"></div><noscript>
   <div style="width: 302px; height: 352px;">
@@ -215,7 +215,7 @@ jQuery.extend(Drupal.settings, {"basePath":"\/","pathPrefix":"","setHasJsCookie"
 </div><div class="form-actions form-wrapper" id="edit-actions--2"><input type="submit" id="edit-submit--2" name="op" value="Đăng nhập" class="form-submit" /></div></div></form> </div>
 </div>
 <div id="block-views-tin-noi-bat-block" class="clearfix block block-views">     <h2>Tin nổi bật</h2>
-      <div class="content"> <div class="view view-tin-noi-bat view-id-tin_noi_bat view-display-id-block view-dom-id-9483feb12ace0dae1b5a6b117224406c">
+      <div class="content"> <div class="view view-tin-noi-bat view-id-tin_noi_bat view-display-id-block view-dom-id-5e989b08f0432a2f77349b73bf10a1b6">
         
   
   
@@ -325,41 +325,41 @@ jQuery.extend(Drupal.settings, {"basePath":"\/","pathPrefix":"","setHasJsCookie"
                                                                                                           </div>
                                         <div id="content-body" class="row-fluid content-body"> <div class="region region-content clearfix">
   <div id="block-views-hien-thi-bai-viet-moi-block" class="clearfix block block-views">     <h2>Thông báo chung</h2>
-      <div class="content"> <div class="view view-hien-thi-bai-viet-moi view-id-hien_thi_bai_viet_moi view-display-id-block view-dom-id-53fa3f2654ccfa5eb3e3f61bc5e2ef7e">
+      <div class="content"> <div class="view view-hien-thi-bai-viet-moi view-id-hien_thi_bai_viet_moi view-display-id-block view-dom-id-5e6227385a83330d8976baf055ccf4c4">
         
   
   
       <div class="view-content">
       <div class="item-list">    <ul>          <li class="views-row views-row-1 views-row-odd views-row-first">  
+          <a href="/thong-bao-ds-sv-dat-so-tuyen-va-moi-thuc-hien-phong-van-vao-lop-hurudee-vi">Thông báo d/s SV đạt Sơ tuyển và mời thực hiện Phỏng vấn vào lớp Hurudee VI</a>        -  
+          21/11/2024 - 09:02  </li>
+          <li class="views-row views-row-2 views-row-even">  
           <a href="/thong-bao-lich-thi-cuoi-ky-hoc-ky-1-nam-hoc-2024-2025">Thông báo lịch thi cuối kỳ học kỳ 1 năm học 2024-2025</a>        -  
           14/11/2024 - 15:38  </li>
-          <li class="views-row views-row-2 views-row-even">  
+          <li class="views-row views-row-3 views-row-odd">  
           <a href="/khao-sat-sv-da-tot-nghiep-hoac-tre-han-tot-nghiep">Khảo sát SV đã tốt nghiệp hoặc trễ hạn tốt nghiệp</a>        -  
           14/11/2024 - 09:53  </li>
-          <li class="views-row views-row-3 views-row-odd">  
+          <li class="views-row views-row-4 views-row-even">  
           <a href="/thong-bao-quyet-dinh-cong-nhan-tot-nghiep-dot-4-nam-2024">Thông báo Quyết định công nhận Tốt nghiệp đợt 4 năm 2024</a>        -  
           13/11/2024 - 14:55  </li>
-          <li class="views-row views-row-4 views-row-even">  
+          <li class="views-row views-row-5 views-row-odd">  
           <a href="/uit-talentbridge-tham-gia-khao-sat-ctdt-nhan-luc-uu-tu-huong-doanh-nghiep">[UIT-TALENTBRIDGE] Tham gia khảo sát CTĐT nhân lực ưu tú hướng doanh nghiệp</a>        -  
           12/11/2024 - 09:26  </li>
-          <li class="views-row views-row-5 views-row-odd">  
+          <li class="views-row views-row-6 views-row-even">  
           <a href="/thong-bao-danh-sach-sinh-vien-du-kien-tn-dot-4-nam-2024">Thông báo Danh sách sinh viên dự kiến TN đợt 4 năm 2024</a>        -  
           07/11/2024 - 08:35  </li>
-          <li class="views-row views-row-6 views-row-even">  
+          <li class="views-row views-row-7 views-row-odd">  
           <a href="/thong-bao-lich-thi-tap-trung-giua-ky-dot-2-hoc-ky-1-nam-hoc-2024-2025-danh-cho-khoa-tuyen-sinh-nam">Thông báo lịch thi tập trung Giữa kỳ Đợt 2 học kỳ 1 năm học 2024-2025 (dành cho khóa tuyển sinh năm 2024)</a>        -  
           29/10/2024 - 15:18  </li>
-          <li class="views-row views-row-7 views-row-odd">  
+          <li class="views-row views-row-8 views-row-even">  
           <a href="/ve-viec-hoc-cua-lop-ss00717-ss009p13-ss009p14">Về việc học của lớp SS007.17, SS009.P13, SS009.P14</a>        -  
           16/10/2024 - 09:53  </li>
-          <li class="views-row views-row-8 views-row-even">  
+          <li class="views-row views-row-9 views-row-odd">  
           <a href="/tuyen-sinh-khoa-hoc-tieng-nhat-mien-phi-khoa-vi-va-gioi-thieu-viec-lam-tai-nhat-ban-tai-tro-boi">Tuyển sinh Khóa học tiếng Nhật (miễn phí) Khóa VI và giới thiệu việc làm tại Nhật Bản - tài trợ bởi Huredee</a>        -  
           11/10/2024 - 08:17  </li>
-          <li class="views-row views-row-9 views-row-odd">  
+          <li class="views-row views-row-10 views-row-even views-row-last">  
           <a href="/thong-bao-ve-viec-xet-mien-cac-mon-anh-van-1-2-va-3-dot-2-trong-hoc-ky-1-nam-hoc-2024-2025-cho-sinh">Thông báo về việc xét miễn các môn anh văn 1, 2 và 3 đợt 2 trong học kỳ 1 năm học 2024-2025 cho sinh viên chính quy chương trình đào tạo đại trà và chương trình chuẩn</a>        -  
           30/09/2024 - 09:58  </li>
-          <li class="views-row views-row-10 views-row-even views-row-last">  
-          <a href="/ke-hoach-xet-tot-nghiep-dot-04-nam-2024">Kế hoạch xét tốt nghiệp đợt 04 năm 2024</a>        -  
-          27/09/2024 - 16:16  </li>
       </ul></div>    </div>
   
   
@@ -374,7 +374,7 @@ jQuery.extend(Drupal.settings, {"basePath":"\/","pathPrefix":"","setHasJsCookie"
   
 </div> </div>
 </div><div id="block-views-hien-thi-bai-viet-moi-block-1" class="clearfix block block-views">     <h2>Thông báo văn bằng 2</h2>
-      <div class="content"> <div class="view view-hien-thi-bai-viet-moi view-id-hien_thi_bai_viet_moi view-display-id-block_1 view-dom-id-eeefc319b339f6fab0ba49d402995122">
+      <div class="content"> <div class="view view-hien-thi-bai-viet-moi view-id-hien_thi_bai_viet_moi view-display-id-block_1 view-dom-id-3baab672d4ab9d348d32f708eaec1d2b">
         
   
   
@@ -423,7 +423,7 @@ jQuery.extend(Drupal.settings, {"basePath":"\/","pathPrefix":"","setHasJsCookie"
   
 </div> </div>
 </div><div id="block-views-hien-thi-bai-viet-moi-block-2" class="clearfix block block-views">     <h2>Thông báo liên thông chính quy</h2>
-      <div class="content"> <div class="view view-hien-thi-bai-viet-moi view-id-hien_thi_bai_viet_moi view-display-id-block_2 view-dom-id-15289206eb91fae58f719e22f8463efb">
+      <div class="content"> <div class="view view-hien-thi-bai-viet-moi view-id-hien_thi_bai_viet_moi view-display-id-block_2 view-dom-id-f2bb2c77403ed07a8dfe2b12924d4984">
         
   
   
@@ -435,29 +435,29 @@ jQuery.extend(Drupal.settings, {"basePath":"\/","pathPrefix":"","setHasJsCookie"
           <a href="/thong-bao-quy-dinh-muc-thu-hoc-phi-trinh-do-dtdh-nam-hoc-2024-2025">Thông báo quy định mức thu học phí trình độ ĐTĐH năm học 2024-2025</a>        -  
           07/08/2024 - 16:34  </li>
           <li class="views-row views-row-3 views-row-odd">  
+          <a href="/thong-bao-ve-thoi-khoa-bieu-hoc-phan-2-hk1-nam-hoc-2024-2025-cua-lop-lien-thong-chinh-quy-khoa-2024">Thông báo về thời khóa biểu học phần 2 HK1 năm học 2024-2025 của lớp liên thông chính quy khóa 2024</a>        -  
+          22/11/2024 - 11:06  </li>
+          <li class="views-row views-row-4 views-row-even">  
+          <a href="/thong-bao-ve-thoi-khoa-bieu-hoc-phan-5-hk1-nam-hoc-2024-2025-cua-lop-lien-thong-chinh-quy-khoa-2023">Thông báo về thời khóa biểu học phần 5 HK1 năm học 2024-2025 của lớp liên thông chính quy khóa 2023</a>        -  
+          22/11/2024 - 11:02  </li>
+          <li class="views-row views-row-5 views-row-odd">  
           <a href="/lich-thi-cuoi-ky-mon-ma004p11lt-hoc-ky-1-nam-hoc-2024-2025-lop-lien-thong-chinh-quy-khoa-2024">Lịch thi cuối kỳ môn MA004.P11.LT học kỳ 1 năm học 2024-2025 lớp Liên thông chính quy khóa 2024</a>        -  
           07/11/2024 - 11:19  </li>
-          <li class="views-row views-row-4 views-row-even">  
+          <li class="views-row views-row-6 views-row-even">  
           <a href="/thong-bao-danh-sach-sinh-vien-du-kien-tn-dot-3-nam-2024">Thông báo Danh sách sinh viên dự kiến TN đợt 3 năm 2024</a>        -  
           04/09/2024 - 15:58  </li>
-          <li class="views-row views-row-5 views-row-odd">  
+          <li class="views-row views-row-7 views-row-odd">  
           <a href="/thong-tin-ve-buoi-tu-van-tuyen-sinh-ctdt-trinh-do-thac-si-dot-22024">Thông tin về buổi tư vấn tuyển sinh CTĐT trình độ thạc sĩ đợt 2/2024</a>        -  
           30/08/2024 - 15:04  </li>
-          <li class="views-row views-row-6 views-row-even">  
+          <li class="views-row views-row-8 views-row-even">  
           <a href="/thong-bao-ve-thoi-khoa-bieu-hoc-phan-4-hk1-nam-hoc-2024-2025-cua-lop-lien-thong-chinh-quy-khoa-2023">Thông báo về thời khóa biểu học phần 4 HK1 năm học 2024-2025 của lớp liên thông chính quy khóa 2023</a>        -  
           22/08/2024 - 15:32  </li>
-          <li class="views-row views-row-7 views-row-odd">  
+          <li class="views-row views-row-9 views-row-odd">  
           <a href="/bo-sung-danh-sach-mon-hoc-duoc-su-dung-lam-mon-hoc-tu-chon-tu-do">Bổ sung danh sách môn học được sử dụng làm môn học tự chọn tự do</a>        -  
           20/08/2024 - 16:32  </li>
-          <li class="views-row views-row-8 views-row-even">  
+          <li class="views-row views-row-10 views-row-even views-row-last">  
           <a href="/lich-thi-cuoi-ky-mon-it003o21lt-hoc-ky-2-nam-hoc-2023-2024-lop-lien-thong-chinh-quy-khoa-2023">Lịch thi cuối kỳ môn IT003.O21.LT học kỳ 2 năm học 2023-2024 lớp Liên thông chính quy khóa 2023</a>        -  
           09/08/2024 - 14:37  </li>
-          <li class="views-row views-row-9 views-row-odd">  
-          <a href="/thong-bao-nghi-le-quoc-khanh-nuoc-cong-hoa-xa-hoi-chu-nghia-viet-nam-nam-2024">Thông báo nghỉ Lễ Quốc Khánh nước Cộng hòa xã hội chủ nghĩa Việt Nam năm 2024</a>        -  
-          06/08/2024 - 14:33  </li>
-          <li class="views-row views-row-10 views-row-even views-row-last">  
-          <a href="/thong-bao-ve-thoi-khoa-bieu-hoc-phan-1-hk1-nam-hoc-2024-2025-cua-lop-lien-thong-chinh-quy-khoa-2024">Thông báo về thời khóa biểu học phần 1 HK1 năm học 2024-2025 của lớp liên thông chính quy khóa 2024</a>        -  
-          01/08/2024 - 14:57  </li>
       </ul></div>    </div>
   
   
@@ -472,41 +472,41 @@ jQuery.extend(Drupal.settings, {"basePath":"\/","pathPrefix":"","setHasJsCookie"
   
 </div> </div>
 </div><div id="block-views-thongbao-baonghi-baobu-block" class="clearfix block block-views">     <h2>Thông báo nghỉ, bù</h2>
-      <div class="content"> <div class="view view-thongbao-baonghi-baobu view-id-thongbao_baonghi_baobu view-display-id-block view-dom-id-7557b403b25b9945d5c85f6f0ccbcfb6">
+      <div class="content"> <div class="view view-thongbao-baonghi-baobu view-id-thongbao_baonghi_baobu view-display-id-block view-dom-id-c89c7673360caed3a6f5980cef86d812">
         
   
   
       <div class="view-content">
       <div class="item-list">    <ul>          <li class="views-row views-row-1 views-row-odd views-row-first">  
-          <a href="/node/26145">Thông báo nghỉ lớp Phương pháp Phát triển phần mềm hướng đối tượng (SE100.P12) ngày 05/12/2024</a>        -  
-          20/11/2024 - 23:03  </li>
+          <a href="/node/26313">Thông báo nghỉ lớp Cấu trúc dữ liệu và giải thuật (IT003.P11.VB2) ngày 26/11/2024</a>        -  
+          23/11/2024 - 12:22  </li>
           <li class="views-row views-row-2 views-row-even">  
-          <a href="/node/26143">Thông báo nghỉ lớp Phương pháp Phát triển phần mềm hướng đối tượng (SE100.P12) ngày 21/11/2024</a>        -  
-          20/11/2024 - 23:01  </li>
+          <a href="/node/26310">Thông báo học bù Cấu trúc dữ liệu và giải thuật (IT003.P15) ngày 29/11/2024</a>        -  
+          23/11/2024 - 08:34  </li>
           <li class="views-row views-row-3 views-row-odd">  
-          <a href="/node/26140">Thông báo nghỉ lớp Mạng xã hội (IS353.P11) ngày 21/11/2024</a>        -  
-          20/11/2024 - 21:49  </li>
+          <a href="/node/26308">Thông báo học bù Nhập môn lập trình (IT001.P118) ngày 29/11/2024</a>        -  
+          23/11/2024 - 07:52  </li>
           <li class="views-row views-row-4 views-row-even">  
-          <a href="/node/26135">Thông báo nghỉ lớp An toàn và bảo mật hệ thống thông tin (IS335.P11) ngày 21/11/2024</a>        -  
-          20/11/2024 - 21:48  </li>
+          <a href="/node/26303">Thông báo học bù ONLINE Kỹ năng nghề nghiệp (SS004.P12) ngày 25/11/2024</a>        -  
+          23/11/2024 - 07:49  </li>
           <li class="views-row views-row-5 views-row-odd">  
-          <a href="/node/26130">Thông báo lịch học HT2 Tấn công mạng (NT205.P11.ANTT.1) ngày 21/12/2024</a>        -  
-          20/11/2024 - 16:12  </li>
+          <a href="/node/26300">Thông báo nghỉ lớp Nhập môn lập trình (IT001.P118.2) ngày 12/12/2024</a>        -  
+          22/11/2024 - 21:06  </li>
           <li class="views-row views-row-6 views-row-even">  
-          <a href="/node/26125">Thông báo học bù Toán cho Khoa học máy tính (CS115.P13) ngày 07/12/2024</a>        -  
-          20/11/2024 - 13:59  </li>
+          <a href="/node/26298">Thông báo nghỉ lớp Nhập môn lập trình (IT001.P118) ngày 12/12/2024</a>        -  
+          22/11/2024 - 21:04  </li>
           <li class="views-row views-row-7 views-row-odd">  
-          <a href="/node/26120">Thông báo nghỉ lớp Toán cho Khoa học máy tính (CS115.P13) ngày 11/12/2024</a>        -  
-          20/11/2024 - 12:37  </li>
+          <a href="/thong-bao-ve-thoi-khoa-bieu-hoc-phan-2-hk1-nam-hoc-2024-2025-cua-lop-lien-thong-chinh-quy-khoa-2024">Thông báo về thời khóa biểu học phần 2 HK1 năm học 2024-2025 của lớp liên thông chính quy khóa 2024</a>        -  
+          22/11/2024 - 11:06  </li>
           <li class="views-row views-row-8 views-row-even">  
-          <a href="/node/26115">Thông báo học bù Đại số tuyến tính (MA003.P13) ngày 03/01/2025</a>        -  
-          20/11/2024 - 09:29  </li>
+          <a href="/node/26288">Thông báo lịch học HT2 Nhập môn Thị giác máy tính (CS231.P11.1) ngày 07/12/2024</a>        -  
+          22/11/2024 - 11:05  </li>
           <li class="views-row views-row-9 views-row-odd">  
-          <a href="/node/26113">Thông báo học bù Deep Learning trong khoa học dữ liệu (DS201.P11.2) ngày 10/12/2024</a>        -  
-          20/11/2024 - 07:57  </li>
+          <a href="/node/26280">Thông báo lịch học HT2 Tư duy tính toán (CS117.P11.1) ngày 07/12/2024</a>        -  
+          22/11/2024 - 10:58  </li>
           <li class="views-row views-row-10 views-row-even views-row-last">  
-          <a href="/node/26110">Thông báo học bù Hệ thống thông tin địa lý 3 chiều (IE402.P11) ngày 07/12/2024</a>        -  
-          20/11/2024 - 07:56  </li>
+          <a href="/node/26278">Thông báo lịch học HT2 Nhập môn phát triển game (SE102.P11.1) ngày 23/11/2024</a>        -  
+          22/11/2024 - 10:27  </li>
       </ul></div>    </div>
   
   
@@ -521,7 +521,7 @@ jQuery.extend(Drupal.settings, {"basePath":"\/","pathPrefix":"","setHasJsCookie"
   
 </div> </div>
 </div><div id="block-views-thongbao-baonghi-baobu-block-1" class="clearfix block block-views">     <h2>Thông báo về phòng học</h2>
-      <div class="content"> <div class="view view-thongbao-baonghi-baobu view-id-thongbao_baonghi_baobu view-display-id-block_1 view-dom-id-d330f1e69952543762f46b4a589f14d6">
+      <div class="content"> <div class="view view-thongbao-baonghi-baobu view-id-thongbao_baonghi_baobu view-display-id-block_1 view-dom-id-9b0f14f5f6780d6592224066f8fe6778">
         
   
   

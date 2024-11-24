@@ -68,6 +68,7 @@
             b3Btn.TabIndex = 2;
             b3Btn.Text = "Bài 3";
             b3Btn.UseVisualStyleBackColor = true;
+            b3Btn.Click += b3Btn_Click;
             // 
             // b4Btn
             // 

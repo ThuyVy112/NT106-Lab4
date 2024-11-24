@@ -51,3 +51,5 @@ C:\Users\Hi\Source\Repos\NT106-Lab4\NT106-Lab4\bin\Debug\net8.0-windows\Microsof
 C:\Users\Hi\Source\Repos\NT106-Lab4\NT106-Lab4\bin\Debug\net8.0-windows\System.Drawing.Common.dll
 C:\Users\Hi\Source\Repos\NT106-Lab4\NT106-Lab4\bin\Debug\net8.0-windows\System.Private.Windows.Core.dll
 C:\Users\Hi\Source\Repos\NT106-Lab4\NT106-Lab4\bin\Debug\net8.0-windows\runtimes\win\lib\net8.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\Hi\Source\Repos\NT106-Lab4\NT106-Lab4\obj\Debug\net8.0-windows\NT106_Lab4.Bai3.resources
+C:\Users\Hi\Source\Repos\NT106-Lab4\NT106-Lab4\bin\Debug\net8.0-windows\Newtonsoft.Json.dll
