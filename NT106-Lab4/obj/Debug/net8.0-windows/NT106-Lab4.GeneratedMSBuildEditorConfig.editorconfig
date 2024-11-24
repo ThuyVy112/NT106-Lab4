@@ -14,6 +14,6 @@ build_property.PlatformNeutralAssembly =
 build_property.EnforceExtendedAnalyzerRules = 
 build_property._SupportedPlatformList = Linux,macOS,Windows
 build_property.RootNamespace = NT106_Lab4
-build_property.ProjectDir = C:\Users\Hi\Source\Repos\NT106-Lab4\NT106-Lab4\
+build_property.ProjectDir = C:\NT106\Lab4\NT106-Lab4\NT106-Lab4\
 build_property.EnableComHosting = 
 build_property.EnableGeneratedComInterfaceComImportInterop = 

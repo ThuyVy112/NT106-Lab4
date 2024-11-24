@@ -1,20 +1,20 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Hi\\Source\\Repos\\NT106-Lab4\\NT106-Lab4\\NT106-Lab4.csproj": {}
+    "C:\\NT106\\Lab4\\NT106-Lab4\\NT106-Lab4\\NT106-Lab4.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Hi\\Source\\Repos\\NT106-Lab4\\NT106-Lab4\\NT106-Lab4.csproj": {
+    "C:\\NT106\\Lab4\\NT106-Lab4\\NT106-Lab4\\NT106-Lab4.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Hi\\Source\\Repos\\NT106-Lab4\\NT106-Lab4\\NT106-Lab4.csproj",
+        "projectUniqueName": "C:\\NT106\\Lab4\\NT106-Lab4\\NT106-Lab4\\NT106-Lab4.csproj",
         "projectName": "NT106-Lab4",
-        "projectPath": "C:\\Users\\Hi\\Source\\Repos\\NT106-Lab4\\NT106-Lab4\\NT106-Lab4.csproj",
-        "packagesPath": "C:\\Users\\Hi\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Hi\\Source\\Repos\\NT106-Lab4\\NT106-Lab4\\obj\\",
+        "projectPath": "C:\\NT106\\Lab4\\NT106-Lab4\\NT106-Lab4\\NT106-Lab4.csproj",
+        "packagesPath": "C:\\Users\\trann\\.nuget\\packages\\",
+        "outputPath": "C:\\NT106\\Lab4\\NT106-Lab4\\NT106-Lab4\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\Hi\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\trann\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -22,7 +22,6 @@
         ],
         "sources": {
           "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
-          "C:\\Program Files\\dotnet\\library-packs": {},
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
@@ -82,7 +81,7 @@
               "privateAssets": "none"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.404/PortableRuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.200/PortableRuntimeIdentifierGraph.json"
         }
       }
     }

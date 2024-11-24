@@ -24,5 +24,11 @@ namespace NT106_Lab4
             Bai3 form = new Bai3();
             form.Show();
         }
+
+        private void b4Btn_Click(object sender, EventArgs e)
+        {
+            Bai4 form = new Bai4();
+            form.Show();
+        }
     }
 }
