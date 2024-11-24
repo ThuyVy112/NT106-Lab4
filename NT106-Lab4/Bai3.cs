@@ -160,6 +160,45 @@ namespace NT106_Lab4
                 MessageBox.Show(ex.Message);
             }
         }
+
+        private async void fetchStudent_Click(object sender, EventArgs e)
+        {
+            string url = "http://localhost:5256/Student";
+            try
+            {
+                // gửi request lấy dữ liệu
+                HttpResponseMessage response = await client.GetAsync(url);
+                response.EnsureSuccessStatusCode(); // Throw exception nếu không thành công
+
+                // Đọc dữ liệu JSON
+                string responseData = await response.Content.ReadAsStringAsync();
+                List<Students> students = JsonConvert.DeserializeObject<List<Students>>(responseData);
+
+                // Xóa các cột cũ trong ListView (nếu có)
+                listView.Columns.Clear();
+
+                // Cấu hình các cột cho ListView
+                listView.Columns.Add("mssv", 100, HorizontalAlignment.Center);
+                listView.Columns.Add("name", 200, HorizontalAlignment.Left);
+
+                listView.View = View.Details;
+                // xóa dòng cũ trong ListView (nếu có)
+                listView.Items.Clear();
+
+                // hiển thị dữ liệu 100 photo đầu tiên
+                foreach (var student in students)
+                {
+                    ListViewItem item = new(student.mssv.ToString());
+                    item.SubItems.Add(student.name);
+                    listView.Items.Add(item);
+                }
+
+            }
+            catch (HttpRequestException ex)
+            {
+                MessageBox.Show(ex.Message);
+            }
+        }
     }
 
     public class Photos
@@ -188,5 +227,11 @@ namespace NT106_Lab4
         public string email { get; set; }
         public string phone { get; set; }
         public string website { get; set; }
+    }
+
+    public class Students
+    {
+        public int mssv { get; set; }
+        public string name { get; set; }
     }
 }

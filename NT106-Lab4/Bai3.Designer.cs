@@ -32,6 +32,7 @@
             listView = new ListView();
             fetchComments = new Button();
             fetchUsers = new Button();
+            fetchStudent = new Button();
             SuspendLayout();
             // 
             // fetchPhotos
@@ -81,11 +82,24 @@
             fetchUsers.UseVisualStyleBackColor = true;
             fetchUsers.Click += fetchUsers_Click;
             // 
+            // fetchStudent
+            // 
+            fetchStudent.Font = new Font("Cambria", 10.2F, FontStyle.Regular, GraphicsUnit.Point, 0);
+            fetchStudent.Location = new Point(550, 11);
+            fetchStudent.Margin = new Padding(3, 2, 3, 2);
+            fetchStudent.Name = "fetchStudent";
+            fetchStudent.Size = new Size(196, 27);
+            fetchStudent.TabIndex = 7;
+            fetchStudent.Text = "Load Student (Advanced)";
+            fetchStudent.UseVisualStyleBackColor = true;
+            fetchStudent.Click += fetchStudent_Click;
+            // 
             // Bai3
             // 
             AutoScaleDimensions = new SizeF(7F, 15F);
             AutoScaleMode = AutoScaleMode.Font;
             ClientSize = new Size(1122, 597);
+            Controls.Add(fetchStudent);
             Controls.Add(fetchUsers);
             Controls.Add(fetchComments);
             Controls.Add(listView);
@@ -101,5 +115,6 @@
         private ListView listView;
         private Button fetchComments;
         private Button fetchUsers;
+        private Button fetchStudent;
     }
 }

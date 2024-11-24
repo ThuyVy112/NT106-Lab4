@@ -76,3 +76,5 @@ C:\NT106\Lab4\NT106-Lab4\NT106-Lab4\obj\Debug\net8.0-windows\NT106-Lab4.sourceli
 C:\NT106\Lab4\NT106-Lab4\NT106-Lab4\obj\Debug\net8.0-windows\NT106-Lab4.csproj.Up2Date
 C:\NT106\Lab4\NT106-Lab4\NT106-Lab4\obj\Debug\net8.0-windows\NT106_Lab4.Bai4.resources
 C:\NT106\Lab4\NT106-Lab4\NT106-Lab4\obj\Debug\net8.0-windows\NT106_Lab4.Bai4_WebBrowser.resources
+C:\Users\Hi\Source\Repos\NT106-Lab4\NT106-Lab4\obj\Debug\net8.0-windows\NT106_Lab4.Bai4.resources
+C:\Users\Hi\Source\Repos\NT106-Lab4\NT106-Lab4\obj\Debug\net8.0-windows\NT106_Lab4.Bai4_WebBrowser.resources
